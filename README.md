@@ -4,8 +4,9 @@ This is a simple node application that takes notes.
 
 To start this application first
 
-1.clone or download the files.
-2.cd into directory.
+1. Make sure you have node installed if not here is  a [Link](https://nodejs.org/en/)
+1. clone or download the files.
+2. cd into directory.
 
 
 ### To Add a Note
